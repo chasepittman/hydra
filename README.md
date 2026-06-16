@@ -1,2 +1,2 @@
 # hydra
-AI-powered Newsletter Summarization Tool
+AI-Powered Newsletter Summarization Tool
